@@ -1,0 +1,23 @@
+// $enable-caret: true !default;
+// $enable-rounded: true !default;
+// $enable-shadows: true !default;
+// $enable-gradients: true !default;
+// $enable-transitions: true !default;
+// $enable-grid-classes: true !default;
+// $enable-print-styles: true !default;
+
+
+
+$enable-shadows: true;
+$enable-gradients: true;
+$grid-breakpoints: (
+  xs: 0,
+  sm: 456px,
+  md: 789px,
+  lg: 999px,
+  xl: 1234px
+);
+$bv-enable-table-stacked: false;
+
+// $body-bg: #001122;
+// $body-color: #111;
